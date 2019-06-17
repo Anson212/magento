@@ -2,7 +2,7 @@
 
 > A Vue.js project
 >
-> 技术栈主要使用vue-cli2.0+vue+router+axios
+> 技术栈主要使用vue-cli2.0+vue+router+axios+webpack
 
 ``` bash
 # install dependencies
