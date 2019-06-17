@@ -1,6 +1,8 @@
 # Anson212
 
 > A Vue.js project
+>
+> 技术栈主要使用vue-cli2.0+vue+router+axios
 
 ``` bash
 # install dependencies

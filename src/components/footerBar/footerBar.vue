@@ -28,7 +28,7 @@
                     <div class="footer_link">
                         <div class="footer_link_title">友情链接</div>
                         <ul id="frientLinks">
-                            <li><a href='' target='_blank'>原码地址gitHub</a> </li>
+                            <li><a href='https://github.com/Anson212/magento' target='_blank'>原码地址gitHub</a> </li>
                             <li><a href='http://www.lolint.com/' target='_blank'>个人主页</a> </li>
                         </ul>
                     </div>
